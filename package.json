@@ -1,0 +1,26 @@
+{
+  "name": "exercice-cypress",
+  "version": "1.0.0",
+  "description": "First approach Cypress",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgomezb/exercice-cypress.git"
+  },
+  "keywords": [
+    "javascript",
+    "cypress"
+  ],
+  "author": "Cesar Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgomezb/exercice-cypress/issues"
+  },
+  "homepage": "https://github.com/cgomezb/exercice-cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.2.1"
+  }
+}
